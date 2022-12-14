@@ -1,9 +1,1 @@
-fff | email@gmai.com | ff
-ggg | email@gmai.com | ff
-fffff | email@gmai.com | ff
-facebook | email@gmai.com | 12345
-Instagram | email@gmai.com | 12345
-Gmail | email@gmai.com | 5869
-amazon | email@gmai.com | 78564
-git | email@gmai.com | 852
-twitter | email@gmai.com | evtvgyaSe$#(09
+
